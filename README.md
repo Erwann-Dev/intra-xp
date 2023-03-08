@@ -21,7 +21,7 @@ It actually support :
 ### Step 1 : Clone the repository
 
 ```
-~/> git clone https://github.com/NialaH/intraxphub_chrome
+~/> git clone https://github.com/Erwann-Dev/intra-xp.git
 ```
 
 ### Step 2 : Load the unpacked extension
